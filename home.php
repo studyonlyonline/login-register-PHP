@@ -29,7 +29,6 @@ $userRow=mysqli_fetch_array($res,MYSQLI_ASSOC);
          <?php echo $userRow['username']; 
          	 echo "<a href=\"logout.php?logout=a\">Sign Out</a>"
          ?>&nbsp;
-       
         </div>
     </div>
 </div>

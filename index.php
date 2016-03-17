@@ -33,8 +33,7 @@ if(isset($_POST['btn-login']))
 		<?php
 	}
 }
-
- ?>
+?>
 
  <!DOCTYPE html>
  <html>

@@ -10,4 +10,4 @@ function doDB()
 		exit();
 	}
 }
- ?>
+?>
